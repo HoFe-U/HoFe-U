@@ -2,7 +2,7 @@
 - 🔭 I'm still learning back-end.
 
 
-![HoFe-U's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoFe-U&show_icons=true&theme=radical)
+<!-- ![HoFe-U's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoFe-U&show_icons=true&theme=radical) -->
 
 
 <!--
