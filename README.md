@@ -3,7 +3,7 @@
 - When I study technology, I organize it in Notion.
 
 
-<a href="https://diagnostic-coreopsis-a46.notion.site/HoFe-U-669277cf1f2f420e843269b409e0b6fc">
+<a href="https://hofe-u.notion.site/HoFe-U-669277cf1f2f420e843269b409e0b6fc">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white">
 </a>
 <br>
