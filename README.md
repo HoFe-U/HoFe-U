@@ -1,4 +1,4 @@
-# HoFe-U 🌱 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoFe-U&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# HoFe-U 🌱
 - 🔭 I am a person who is studying the back end.
 - When I study technology, I organize it in Notion.
 
